@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+
+# Ruby, Jekyll & preprocessors
+.jekyll-metadata
+.ruby-version
+.sass-cache
+_site/
+
+# External libraries
+css/base/
+css/bourbon/
+css/neat/

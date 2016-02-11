@@ -1,0 +1,11 @@
+title: Expedição Liberdade
+description: O que está por trás de algumas das escolas mais incríveis do mundo?
+url: "http://localhost:4000"
+exclude: 
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+include: 
+  - _pages
+sass:
+    sass_dir: css
