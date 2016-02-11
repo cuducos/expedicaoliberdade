@@ -74,11 +74,11 @@ A Schumacher College mereceu um capítulo nesse livro que também trata de alter
 
 O Felipe Cunha é um carioca que conhecemos lá na Schumacher College. A pesquisa de mestardo dele, dentro do programa de Economia para Transição, trata da nova economia. Ele mantém [um blog sobre o tema e sobre a sua experiência na Schumacher](http://www.solosocial.com.br/amargem). Para esse blog ele tem produzido alguns vídeos curtos com convidados — então compartilhamos alguns deles:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NSRAnXeaAh8" frameborder="0" allowfullscreen></iframe>
+{% youtube NSRAnXeaAh8% %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YvAebcOA8qo" frameborder="0" allowfullscreen></iframe>
+{% youtube YvAebcOA8qo% %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WzQoZ5z2Axg" frameborder="0" allowfullscreen></iframe>
+{% youtube WzQoZ5z2Axg% %}
 
 ### Perguntas &amp; respostas com Tomás de Lara
 
@@ -98,6 +98,6 @@ _O que é a Schumacher College pra você?_
 
 Por fim, conheçam o Satish Kumar. Ele, nada mais nada menos, fundou da Schumacher College. Se você leu até aqui, acho que vai querer conferir esses vídeos!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VAz0bOtfVfE" frameborder="0" allowfullscreen></iframe>
+{% youtube VAz0bOtfVfE %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSLUd0veioU" frameborder="0" allowfullscreen></iframe>
+{% youtube uSLUd0veioU %}

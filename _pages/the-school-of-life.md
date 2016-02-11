@@ -34,7 +34,7 @@ Os Sermões Seculares, por exemplo, são encontros que sempre acontecem aos domi
 
 Um exemplo que vocês podem acompanhar em vídeo é o sermão inaugural em São Paulo, cujo tema foi Arrependimento. Nele, a Drª Ana Claudia Arantes, médica geriatra do Hospital Albert Einstein, parte do seu estudo sobre os principais arrependimentos dos seres humanos antes de morrer para oferecer a reflexão sobre a vida que a The School of Life busca:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bAXHv1zrrYY" frameborder="0" allowfullscreen></iframe>
+{% youtube bAXHv1zrrYY %}
 
 Para quem se interessar mais sobre os temas, foram lançados ano passado seis livros em português sobre debates promovidos pelos professores da escola, além de sermões na íntegra (em inglês) [no canal da escola no Vimeo](http://vimeo.com/channels/theschooloflife).
 

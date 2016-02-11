@@ -44,4 +44,4 @@ Por falar em coaching, a Alison, além de estar envolvida na Team Academy, ainda
 
 No nosso papo ainda surgiu um cometário interessante, que deixamos aqui para reflexão: ela comentou que foi procurada para ir a Argentina, para apresentar o modelo da Team Academy a algumas pessoas estavam interessadas em implementar a Team Academy por lá. Nós perguntamos se havia alguma relação de crises sociais e econômicas com essa busca por alternativas à educação e por alternativas aos modelos de carreira e mercado. A resposta dela parece sustentar essa hipótese que levantamos: quando a Team Academy surgiu, há mais ou menos 20 anos, a Finlândia, que tinha ótimas relações com a URSS, havia perdido a maioria de seus clientes, da noite para o dia, com o fim do bloco soviético – e estava lidando com essa crise, buscando se reestruturar. Então, fica a hipótese e o caso da Team Academy apontando para uma resposta aparentemente afirmativa. E fiquem ainda com um vídeo da própria Team Academy se apresentando para o mundo:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szfLM4T_ldU" frameborder="0" allowfullscreen></iframe>
+{% youtube szfLM4T_ldU %}
