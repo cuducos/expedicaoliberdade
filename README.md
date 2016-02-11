@@ -28,7 +28,7 @@ $ jekyll b
 Optionally use the `_config_production.yml` to build with the production server settings:
 
 ```console
-$ jekyll b --config _config.yml,_config_production.yml
+$ JEKYLL_ENV=production jekyll b
 ```
 
 To view the site open `_site/index.html` with your favorite browser.
