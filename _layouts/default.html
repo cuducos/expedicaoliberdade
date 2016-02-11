@@ -11,9 +11,9 @@
         {{ site.title }} | {{ site.description }}
       {% endif %}
       </title>
-      <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl }}">
+      <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
       <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-      <script src="{{ '/js/init.js' | prepend: site.url }}"></script>
+      <script src="{{ '/js/init.js' | prepend: site.baseurl }}"></script>
       {% include favicons.html %}
   </head>
   <body>
@@ -22,8 +22,8 @@
       <div class="outer_wrapper">
         <div class="inner_wrapper">
           <h1>
-            <a href="{{ site.url }}">
-              <img src="{{ '/images/header.png' | prepend: site.url }}" alt="Expedição Liberdade – Um projeto de Larusso, Cuducos & Mabel">
+            <a href="{{ site.baseurl }}">
+              <img src="{{ '/images/header.png' | prepend: site.baseurl }}" alt="Expedição Liberdade – Um projeto de Larusso, Cuducos & Mabel">
             </a>
           </h1>
         </div><!-- end .inner_wrapper -->
@@ -45,37 +45,37 @@
         <div class="inner_wrapper">
           {% capture footer %}{% include footer.md %}{% endcapture %}
           {{ footer | markdownify }}
-          <h2><img src="{{ '/images/footer/apoio.png' | prepend: site.url }}" alt="Apoio"></h2>
+          <h2><img src="{{ '/images/footer/apoio.png' | prepend: site.baseurl }}" alt="Apoio"></h2>
           <div>
             <div>
               <a href="http://www.laboriosa89.com/">
-                <img src="{{ '/images/footer/lab89.png' | prepend: site.url }}" alt="Laboriosa 89">
+                <img src="{{ '/images/footer/lab89.png' | prepend: site.baseurl }}" alt="Laboriosa 89">
               </a>
             </div>
             <div>
               <a href="http://www.estaleiroliberdade.com.br/">
-                <img src="{{ '/images/footer/estaleiro.png' | prepend: site.url }}" alt="Estaleiro Liberdade">
+                <img src="{{ '/images/footer/estaleiro.png' | prepend: site.baseurl }}" alt="Estaleiro Liberdade">
               </a>
             </div>
             <div>
               <a href="http://ideafixa.com/">
-                <img src="{{ '/images/footer/ideafixa.png' | prepend: site.url }}" alt="Ideafixa">
+                <img src="{{ '/images/footer/ideafixa.png' | prepend: site.baseurl }}" alt="Ideafixa">
               </a>
             </div>
             <div>
               <a href="http://nos.vc/">
-                <img src="{{ '/images/footer/nosvc.png' | prepend: site.url }}" alt="Nós.vc">
+                <img src="{{ '/images/footer/nosvc.png' | prepend: site.baseurl }}" alt="Nós.vc">
               </a>
             </div>
             <div>
               <a href="http://www.vilajcoworking.com.br/">
-                <img src="{{ '/images/footer/vilaj.png' | prepend: site.url }}" alt="Vilaj Coworking">
+                <img src="{{ '/images/footer/vilaj.png' | prepend: site.baseurl }}" alt="Vilaj Coworking">
               </a>
             </div>
           </div>
           <p rel="license">
             <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
-              <img alt="This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International" src="{{ '/images/cc-by-sa.png' | prepend: site.url }}">
+              <img alt="This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International" src="{{ '/images/cc-by-sa.png' | prepend: site.baseurl }}">
             </a>
           </p>
         </div><!-- end .inner_wrapper -->

@@ -14,13 +14,13 @@ A Alison estava trabalhando para iniciar a Team Academy na terra da rainha já h
 
 Para piorar, Alison ainda disse que a cultura inglesa é, em si, fechada. Foi difícil convencer as universidades de que algo que deu certo na Finlandia daria certo no Reino Unido. Mesmo assim, as parcerias começaram e o plano é conseguir 10 universidades em 10 anos para oferecer o modelo Team Academy pelo Reino Unido.
 
-![Alison Fletcher, uma das responsáveis pela Team Academy na Inglaterra]({{ '/images/team-academy/TeamAcademy01.jpg' | prepend: site.url }})
+![Alison Fletcher, uma das responsáveis pela Team Academy na Inglaterra]({{ '/images/team-academy/TeamAcademy01.jpg' | prepend: site.baseurl }})
 
 Mas afinal, o que é a Team Academy? Resumindo, ao invés de os alunos aprenderem algo para depois ter que descobrir o que podem fazer com esse conhecimento, a proposta é que as pessoas aprendam a partir da necessidade de fazer algo. A ideia é que a experiência mais a prática vivenciada em grupo faz a pessoa amadurecer tanto individualmente quanto como ser humano. Assim, os empreendedores – como eles se referem aos alunos – formam equipes de 15 a 18 pessoas logo no início da graduação, mesclando diferentes competências individuais. Cada equipe tem a tarefa de criar uma organização comercial, normalmente uma cooperativa, e tocar essa instituição durante os três anos de universidade (tempo médio de uma graduação no Reino Unido). A ideia é criar alternativas ao modelo universitário tradicional: empreendedores em equipes, ao invés de estudantes; escritórios, ao invés de salas de aula, projetos reais, ao invés de aulas, facilitadores eo invés de professores. Assim, como Alison resume, “tudo na experiência do estudante é diferente.”
 
 Seguindo essa estrutura, a cada semana as equipes conversam por duas horas. Falam sobre o que está acontecendo como time (como está a relação entre eles, quem está indo bem, quem está atrapalhando ou irritando os outros), sobre o que está acontecendo com a cooperativa, e sobre o que estão aprendendo no processo todo. Assim, o modelo não se restringe aos conteúdos necessários para empreender, para tocar uma instituição, mas passa também por reflexões sobre relações interpessoais, subjetividade, troca de experiências, etc.
 
-![Nossa conversa no Southbank Members’ Room]({{ '/images/team-academy/TeamAcademy03.jpg' | prepend: site.url }})
+![Nossa conversa no Southbank Members’ Room]({{ '/images/team-academy/TeamAcademy03.jpg' | prepend: site.baseurl }})
 
 Segundo Alison, esse modelo tem base em três pilares. Uma é mais técnica e profissional, como contabilidade, marketing, legislação envolvendo a criação de empreendimentos etc. A segunda área é focada no comportamento da própria equipe: comunicação, colaboração e trabalho em equipe. Por fim, a mais importante, segundo a Alison, é a área de habilidades pessoais como empatia, otimismo, criatividade e resiliência – área praticamente ignorada no ensino superior tradicional, Alison comenta. De acordo com as conversas frequentes dentro do grupo, e desse tripé, os empreendedores da Team Academy leem, conversam e refletem sobre os elementos chave do aprendizado que eles precisam para tocar a cooperativa que eles criaram.
 
@@ -34,11 +34,11 @@ Dessa forma a Team Academy propõe que a atividade de empreender está na rede d
 
 A Team Academy acredita na ideia think global, act local, e aposta nas formas efetivas de gerar atividade ecônimica localmente, que acabam impactando, de certa forma, também a configuração global. E isso, junto com o aprendizado em grupo, através da atividade de empreender, é o que dá o tom do processo que eles propõe – como mostramos no nosso infográfico:
 
-[![Infográfico]({{ '/images/team-academy/TeamAcademy.png' | prepend: site.url }})]({{ '/pdf/TeamAcademy.pdf' | prepend: site.url }})
+[![Infográfico]({{ '/images/team-academy/TeamAcademy.png' | prepend: site.baseurl }})]({{ '/pdf/TeamAcademy.pdf' | prepend: site.baseurl }})
 
 Por fim, o perfil de quem atua como facilitador inclui pessoas que já tiveram seus próprios negócios ou projetos, pessoas que tiveram alguma formação acadêmica (mas não necessariamente pós-graduação), e pessoas que se envolvem ou sao entusiastas de start-ups e novos negócios. A ideia é que eles atuem para otimizar as trocas entre as pessoas nas equipes, e não expondo conteúdo de uma forma didática. Ter aptidão para coaching, para gerar empatia, para ouvir, para dar suporte aos empreendedores em seus desafios é mais importante do que a didática em si.
 
-![Nossa entrevistada Alison]({{ '/images/team-academy/TeamAcademy02.jpg' | prepend: site.url }})
+![Nossa entrevistada Alison]({{ '/images/team-academy/TeamAcademy02.jpg' | prepend: site.baseurl }})
 
 Por falar em coaching, a Alison, além de estar envolvida na Team Academy, ainda trabalha como coach profissional, em uma empresa que ela mesmo fundou. Sobre essas duas atividades, ela brinca: “se as pessoas que eu oriento no meu negócio de coaching tivessem tido esse tipo de educação [da Team Academy], eu não teria clientes, por que muitos dos desafios que eles enfrentam, esses jovens de 18, 19, 20 anos já enfrentaram e aprenderam a lidar com isso no ambiente universitário”.
 

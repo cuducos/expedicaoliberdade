@@ -10,7 +10,7 @@ _Saiu no [blog do Catarse](http://blog.catarse.me/). Pirata que somos, copiamos 
 
 ---
 
-![Piratas da Expedição Liberdade em Londres]({{ '/images/catarse/Catarse01.jpg' | prepend: site.url }})
+![Piratas da Expedição Liberdade em Londres]({{ '/images/catarse/Catarse01.jpg' | prepend: site.baseurl }})
 
 Uma campanha de financiamento coletivo com uma meta simbólica de R$ 100 foi a forma que os três integrantes da Expedição Liberdade encontraram para mapear quem e quantas pessoas estariam interessadas em saber mais sobre viagem para conhecer espaços de aprendizagem com propostas educacionais diferentes pela Europa. Nesse relato, Eduardo Cuducos conta como conseguiriam mais de cem apoiadores para viverem uma jornada que mudaria suas vidas.
 
@@ -24,7 +24,7 @@ Eu, sempre em um vai e volta da academia para o mercado, nunca me convenci que m
 
 Nós três já nos conhecíamos há mais ou menos 10 anos, e nos tempos de universidade havíamos feito muita coisa juntos, como por exemplo encontros locais, regionais e nacionais para estudantes de design. Nessas aventuras descobrimos o poder dos encontros. Descobrimos que aprendíamos muito uns com os outros. Sentíamos que o aprendizado dependia muito mais do interesse e da colaboração entre os estudantes do que das estruturas tradicionais da universidade.
 
-![Dinâmica na Kaospilot]({{ '/images/catarse/Catarse02.jpg' | prepend: site.url }})
+![Dinâmica na Kaospilot]({{ '/images/catarse/Catarse02.jpg' | prepend: site.baseurl }})
 
 Isso já era o suficiente para nos motivar a embarcar juntos na Expedição. Já estaríamos todos na Inglaterra e o assunto muito nos interessava. Pensamos que talvez não fossemos os únicos interessados e, portanto, que seria legal poder compartilhar essa experiência com mais gente. Mas como fazer isso?
 
@@ -42,7 +42,7 @@ Divulgamos pelas nossas redes sociais e falamos com um ou outro amigo que por ve
 
 Tudo isso [graças a 110 apoiadores](/estaleiro-liberdade/2013/12/expedicao-liberdade-muito-obrigado). Foi uma ótima surpresa. Nossas visitas não precisavam de apoio, nem de financiamento para acontecer, mas vimos que tinha muita gente no mesmo barco que a gente – muita gente querendo saber mais sobre novas propostas e espaços para aprendizagem. Levamos cada um dos nossos 110 apoiadores na mala durante as nove visitas que fizemos: [Brockwood Park School](http://www.brockwood.org.uk/), a [General Assembly](https://generalassemb.ly/), a[Hyper Island](http://www.hyperisland.com/), a [Kaospilot](http://www.kaospilot.dk/), a [The School of Life](http://www.theschooloflife.com/), a [Schumacher College](http://www.schumachercollege.org.uk/), a [Studio School](https://sites.google.com/a/aetinet.org/tendring-enterprise-studio-school/), a [Team Academy](http://www.tiimiakatemia.fi/en/) e a[Trade School](http://tradeschool.coop/) – todas na Inglaterra, salvo a Kaospilot que fica na Dinamarca. Estamos pensando em cada um dos apoiadores até hoje, enquanto estamos – enfim! – podendo contar como foi a Expedição.
 
-![Entrevistando o Jim, da Hyper Island]({{ '/images/catarse/Catarse03.jpg' | prepend: site.url }})
+![Entrevistando o Jim, da Hyper Island]({{ '/images/catarse/Catarse03.jpg' | prepend: site.baseurl }})
 
 Com todo o apoio que conseguimos, nos encontramos – virtualmente – uma vez por semana para discutir os próximos passos dessa fase de compartilhamento da nossa experiência. Entre uma reunião e outra vamos retomando os gigas e mais gigas de fotos, aúdios e vídeos que temos da Expedição. Vamos revivendo tudo e construindo os textos e infográficos para que vocês possam conhecer nosso ponto de vista sobre cada uma das visitas.
 
@@ -56,7 +56,7 @@ Mas o principal foram os encontros. Tivemos ótimos papos com nossos apoiadores 
 
 Foi ótimo poder ver o os olhos de alguns de vocês brilhando, querendo saber mais sobre as nossas impressões. Foi muito rico também conhecer gente que foi aluno e aluna das escolas que visitamos. E, ainda, pudemos ter discussões com pessoas que se dedicam a estudar educação há anos… Enfim, os encontros nos trouxeram a certeza de que nosso projeto – era verdade – não interessava somente a gente.
 
-![Participando de um evento da Trade School]({{ '/images/catarse/Catarse04.jpg' | prepend: site.url }})
+![Participando de um evento da Trade School]({{ '/images/catarse/Catarse04.jpg' | prepend: site.baseurl }})
 
 E a gente mesmo se surpreendeu com o tanto que aprendemos. Claro que esperávamos aprender muito, mas esse projeto nos tocou com uma intensidade muito forte, nos instigou a repensar muitas escolhas de vida, a escolher caminhos, a tomar decisões. Não acho que faça sentido pensar em outra Expedição Liberdade, mas é importante não deixar de pensar em alternativas para a educação tradicional. Pode ser com outras Expedições? Pode. Mas pode ser com outros projetos (como o Caindo no Brasil, o Educação Fora da Caixa, a [Volta ao Mundo em 12 Escolas](http://catarse.me/pt/livro-volta-ao-mundo-em-12-escolas)), pode ser com outras pessoas, em outros espaços. O importante é que vimos que existem muitas propostas alternativas: existe muita vontade de se afastar de um modelo industrial de educação, de um modelo que parte da certeza sobre o que deve ser aprendido, de um modelo, centrado na “aquisição” e mensuramento de um conhecimento pré-estabelecido.
 

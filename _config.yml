@@ -1,6 +1,7 @@
 title: Expedição Liberdade
 description: O que está por trás de algumas das escolas mais incríveis do mundo?
-url: "http://localhost:4000"
+url: "http://www.expedicaoliberdade.com.br"
+baseurl: ""
 exclude: 
   - Gemfile
   - Gemfile.lock
