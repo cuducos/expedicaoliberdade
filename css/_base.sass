@@ -1,0 +1,23 @@
+body, html
+  color: $dark_red
+  font-size: .9rem
+  margin: 0
+  padding: 0
+  @media (min-width: 480px) 
+    font-size: 1rem
+
+
+a
+  color: $light_red
+  &:hover
+    color: $light_red
+    text-decoration: underline
+
+.outer_wrapper
+  @include outer-container
+  padding: 0 1rem
+  @media (min-width: 68em)
+    padding: 0
+
+.inner_wrapper
+  @include span-columns(12)
