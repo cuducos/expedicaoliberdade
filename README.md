@@ -4,14 +4,14 @@
 
 ## Installation
 
-First install the required Ruby gems:
+First install the required [Ruby](http://ruby-lang.org) gems:
 
 ```console
 $ gem install bundler
 $ bundle install
 ```
 
-Then copy [Bourbon](http://bourbon.io), [Neat](http://neat.bourbon.io) & [Bitter](http://bitters.bourbon.io/) files to the `css` folder:
+Then move [Bourbon](http://bourbon.io), [Neat](http://neat.bourbon.io) & [Bitter](http://bitters.bourbon.io/) to the `css` folder:
 
 ```console
 $ bourbon install && mv bourbon/ css/bourbon/
@@ -19,23 +19,26 @@ $ neat install && mv neat/ css/neat/
 $ bitters install && mv base/ css/base/
 ```
 
-Finally set the site URL at `_config.yml` and build the site:
+Change the site URL at `_config.yml` if needed.
+
+And finally build the site:
 
 ```console
 $ jekyll b
 ```
 
-Optionally use the `_config_production.yml` to build with the production server settings:
+Optionally use set `ENV` variable to build the site with the production server settings:
 
 ```console
 $ JEKYLL_ENV=production jekyll b
 ```
 
-To view the site open `_site/index.html` with your favorite browser.
+To view the site after building it just open `_site/index.html` with your favorite browser.
 
 ```console
 $ open _site/index.html
 ```
+
 ## License
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
