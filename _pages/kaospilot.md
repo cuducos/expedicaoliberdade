@@ -69,7 +69,7 @@ Apesar de muito ser feito em grupo, as experiências individuais fazem da escola
 
 ## A visita
 
-Coincidentemente, enquanto estávamos em Aarhus, o CEO da escola, Christer Windeløv-Lidzélius, estava em Porto Alegre para palestrar no TEDxUnisinos. Aproveitou a estadia e foi conhecer o Estaleiro Liberdade. Comentou que uma das ideias pra nome da escola foi Kaos Pirates. Isso já nos aproximava. Ouviu interessadamente o que cada Marujo estava desenvolvendo e se admirou com a ousadia da nossa escola pirata. Os europeus estão mais habituados com apoios financeiros por parte de governos e empresas. Nas bandas de cá, fazemos tudo de forma independente e criamos nossos modelos de negócios.
+Coincidentemente, enquanto estávamos em Aarhus, o CEO da escola, Christer Windeløv-Lidzélius, estava em Porto Alegre para palestrar no TEDxUnisinos. Aproveitou a estadia e foi conhecer o Estaleiro Liberdade. Comentou que uma das ideias para o nome da escola foi Kaos Pirates. Isso já nos aproximava. Ouviu interessadamente o que cada Marujo estava desenvolvendo e se admirou com a ousadia da nossa escola pirata. Os europeus estão mais habituados com apoios financeiros por parte de governos e empresas. Nas bandas de cá, fazemos tudo de forma independente e criamos nossos modelos de negócios.
 
 {% youtube X-1ivgaW1q8 %}
 
