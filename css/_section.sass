@@ -1,0 +1,59 @@
+section[name=livro]
+  background: transparent url("../images/banner_bg.jpg")
+  +prefixer(background-size, cover, webkit moz o)
+  background-size: cover
+  padding: 1.5rem 0
+  .inner_wrapper
+    +display(flex)
+    +flex-direction(column)
+    +justify-content(space-around)
+    min-height: 75vh
+    @media (min-width: 960px) 
+      min-height: 36rem
+  h1
+    +span-columns(12)
+    @media (min-width: 481px)
+      +span-columns(8)
+      +shift(2)
+  h2
+    margin-top: 1.5rem
+    a
+      +span-columns(8)
+      +shift(2)
+      @media (min-width: 481px)
+        +span-columns(4)
+        +shift(4)
+      border: rem(1) solid #fff
+      color: #fff
+      font-weight: normal
+      padding: .5rem 0
+      text-align: center
+      text-transform: uppercase
+      &:hover
+        text-decoration: none
+
+section[name=escolas]
+  li
+    +span-columns(4)
+    +omega(3n)
+    margin-top: 1rem
+  img
+    width: 100%
+
+section[name=extras]
+  background-color: $dark_red
+  padding: 1.5rem 0
+  color: #fff
+  @media (min-width: 768px)
+    .posts_extras
+      +span-columns(8)
+    .canais
+      +span-columns(4)
+  div div
+    font-size: .9rem
+  h3
+    margin: 1rem 0 0 0
+  a
+    color: #fff
+    &:hover
+      color: #fff

@@ -1,0 +1,18 @@
+body.page
+  section[name=livro] h2, section[name=escolas], section[name=extras]
+    display: none
+  section[name=livro]
+    .inner_wrapper
+      min-height: 0
+
+body.home
+  section[name=livro] h2, section[name=escolas], section[name=extras]
+    display: block
+  main
+    .inner_wrapper
+      @media (min-width: 768px)
+        +span-columns(8)
+        +shift(2)
+        font-size: 1.2rem
+      padding: 1.5rem 0
+      text-align: center
