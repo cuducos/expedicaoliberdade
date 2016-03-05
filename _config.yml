@@ -12,6 +12,7 @@ exclude:
 gems:
   - jekyll-coffeescript
   - jekyll-jsminify
+  - jekyll-sitemap
 sass:
   sass_dir: css
   style: compressed
