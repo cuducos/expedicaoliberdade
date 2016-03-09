@@ -11,17 +11,7 @@ $ gem install bundler
 $ bundle install
 ```
 
-Then move [Bourbon](http://bourbon.io), [Neat](http://neat.bourbon.io) & [Bitter](http://bitters.bourbon.io/) to the `css` folder:
-
-```console
-$ bourbon install && mv bourbon/ css/bourbon/
-$ neat install && mv neat/ css/neat/
-$ bitters install && mv base/ css/base/
-```
-
-Change the site URL at `_config.yml` if needed.
-
-And finally build the site:
+Change the site URL at `_config.yml` if needed and build the site:
 
 ```console
 $ jekyll b
@@ -31,12 +21,6 @@ Optionally use set `ENV` variable to build the site with the production server s
 
 ```console
 $ JEKYLL_ENV=production jekyll b
-```
-
-To view the site after building it just open `_site/index.html` with your favorite browser.
-
-```console
-$ open _site/index.html
 ```
 
 ## License

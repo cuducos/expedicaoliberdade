@@ -6,8 +6,3 @@
 .ruby-version
 .sass-cache
 _site/
-
-# External libraries
-css/base/
-css/bourbon/
-css/neat/

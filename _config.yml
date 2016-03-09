@@ -4,15 +4,17 @@ url: "http://www.expedicaoliberdade.com.br"
 baseurl: ""
 include: 
   - _pages
-
 exclude: 
   - Gemfile
   - Gemfile.lock
   - README.md
 gems:
+  - bitters
+  - bourbon
   - jekyll-coffeescript
   - jekyll-jsminify
   - jekyll-sitemap
+  - neat
 sass:
   sass_dir: css
   style: compressed
