@@ -8,7 +8,7 @@ _Por Daniel Larusso, 26 de dezembro de 2014_
 
 Nesse ano, debutei no [Catarse](http://catarse.me/pt/expedicao) e foi uma experiência incrível. Vê um pouquinho no vídeo aí!
 
-{% vimeo 82737079 %}
+<iframe width="550" height="310" src="http://player.vimeo.com/video/82737079 " frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
 Me juntei aos lindos Cuducos e Mabel pra visitar algumas das mais incríveis escolas e espaços de aprendizagem do mundo, na Europa.
 

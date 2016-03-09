@@ -39,7 +39,7 @@ Por fim, mudança é o que as pessoas que procuram a Hyper Island estão buscand
 
 A Hyper Island está em várias cidades. Começou em Karlskrona na Suécia e hoje existe também em Estocolmo, Manchester, Nova Iorque e Singapura. Já os alunos, são de diversos países (inclusive foi um brasileiro, formado pela Hyper Island de Manchester, que nos colocou em contato com o Jim – muito obrigado, [Paulo](http://about.me/pauloey)!). No vídeo abaixo, feito por uma turma de mestrado em Gestão de Mídia Digital, dá para ver um pouco dessa diversidade das pessoas que compõem a Hyper Island (e ainda, como são os projetos desenvolvidos durante o programa):
 
-{% vimeo 52371110 %}
+<iframe width="550" height="310" src="http://player.vimeo.com/video/52371110 " frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
 As turmas são pequenas, normalmente entre 20 e 40 alunos. Com essa rede de alunos e escolas em diversos países, a reputação da Hyper Island é grande (e, claro, positiva), ajudando muito na hora de conseguir as parcerias com o mercado de trabalho – o que só reforça ainda mais o modelo que eles criaram. Essa é a Hyper Island, uma escola que traz as necessidades do mercado de trabalho para o momento de aprendizagem, criando um ambiente de reflexão, criando experiências que visam mudar o mundo começando pela mudança de si mesmo – E é isso que resumimos no nosso infográfico:
 
