@@ -12,6 +12,8 @@ section[name=livro]
       min-height: 36rem
   h1
     +span-columns(12)
+    img
+      width: 100%
     @media (min-width: 481px)
       +span-columns(8)
       +shift(2)
@@ -57,3 +59,7 @@ section[name=extras]
     color: #fff
     &:hover
       color: #fff
+  ul, ol, li
+    list-style-type: none
+    margin: 0
+    padding: 0

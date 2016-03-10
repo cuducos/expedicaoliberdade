@@ -9,7 +9,6 @@ exclude:
   - Gemfile.lock
   - README.md
 gems:
-  - bitters
   - bourbon
   - jekyll-coffeescript
   - jekyll-jsminify
