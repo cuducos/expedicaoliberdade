@@ -38,5 +38,23 @@ format_images_in_articles = () ->
       if add_class == true
         paragraph.setAttribute 'class', 'image'
 
+# Track outbound link with Google Analytics
+trackOutboundLink = (e) ->
+  url = e.toElement.href
+  if typeof ga == 'function'
+    data = 
+      transport: 'beacon'
+      hitCallback: () -> document.location = url
+    ga 'send', 'event', 'eBook', 'download', data
+  
+# Attach outbound link tracking if Google Analytics is loaded
+attatch_ebook_tracking = () ->
+    ebook = document.getElementById 'ebook'
+    ebook.onclick = trackOutboundLink
+
 # Run when DOM is loaded
 window.addEventListener "DOMContentLoaded", format_images_in_articles, false
+window.addEventListener "DOMContentLoaded", attatch_ebook_tracking, false
+
+
+
