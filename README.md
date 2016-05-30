@@ -1,6 +1,6 @@
 # Expedição Liberdade
 
-[Jekyll](http://jekyllrb.com) source files for [expedicaoliberdade.com.br](http://expedicaoliberdade.com.br).
+[Jekyll](http://jekyllrb.com) source files for [www.expedicaoliberdade.com.br](http://www.expedicaoliberdade.com.br).
 
 ## Installation
 
