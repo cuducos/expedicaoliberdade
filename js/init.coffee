@@ -55,6 +55,3 @@ attatch_ebook_tracking = () ->
 # Run when DOM is loaded
 window.addEventListener "DOMContentLoaded", format_images_in_articles, false
 window.addEventListener "DOMContentLoaded", attatch_ebook_tracking, false
-
-
-
