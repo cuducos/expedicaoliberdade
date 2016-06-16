@@ -1,13 +1,17 @@
 body.page
-  section[name=livro] h2, section[name=escolas], section[name=extras]
+  section[name=livro] h2, nav[name=extras]
     display: none
   section[name=livro]
     .inner_wrapper
       min-height: 0
+  footer
+    margin-top: 3rem
 
 body.home
-  section[name=livro] h2, section[name=escolas], section[name=extras]
+  section[name=livro] h2, nav[name=escolas], nav[name=extras]
     display: block
+  nav[name=extras]
+    margin-top: 3rem
   main
     .inner_wrapper
       @media (min-width: 768px)
