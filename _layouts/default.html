@@ -57,7 +57,15 @@ layout: compress
         <div class="inner_wrapper">
           <h1>
             <a href="{{ site.url }}">
-              <img src="{{ '/images/banner_fg.png' | prepend: site.baseurl }}" alt="Expedição Liberdade">
+              {% srcset banner_fg.png ppi:1,2,3 alt='Expedição Liberdade' %}
+                {% srcset_source size: '68vw' %}
+                {% srcset_source width: 320 %}
+                {% srcset_source width: 480 %}
+                {% srcset_source width: 640 %}
+                {% srcset_source width: 800 %}
+                {% srcset_source width: 1024 %}
+                {% srcset_source width: 1275 %}
+              {% endsrcset %}
             </a>
           </h1>
           <h2><a id="ebook" href="http://www.paywithapost.de/pay?id=e493d761-57a1-4817-99e2-119979f3539a&locale=pt">Download do livro</a></h2>
@@ -80,15 +88,105 @@ layout: compress
         <div class="inner_wrapper">
           <a name="escolas"></a>
           <ul>
-            <li><a href="{{ '/brockwood-park-school/' | prepend: site.baseurl }}"><img src="{{ '/images/brockwood/Brockwood.thumb.png' | prepend: site.baseurl }}" alt="Brockwood Park School"></a></li>
-            <li><a href="{{ '/general-assembly/' | prepend: site.baseurl }}"><img src="{{ '/images/ga/GeneralAssembly.thumb.png' | prepend: site.baseurl }}" alt="General Assembly"></a></li>
-            <li><a href="{{ '/hyper-island/' | prepend: site.baseurl }}"><img src="{{ '/images/hi/HyperIsland.thumb.png' | prepend: site.baseurl }}" alt="Hyper Island"></a></li>
-            <li><a href="{{ '/kaospilot/' | prepend: site.baseurl }}"><img src="{{ '/images/kaospilot/Kaospilot.thumb.png' | prepend: site.baseurl }}""" alt="Kaospilot"></a></li>
-            <li><a href="{{ '/schumacher-college/' | prepend: site.baseurl }}"><img src="{{ '/images/schumacher/Schumacher.thumb.png' | prepend: site.baseurl }}""" alt="Schumacher College"></a></li>
-            <li><a href="{{ '/studio-school/'| prepend: site.baseurl }}"><img src="{{ '/images/studio-school/StudioSchool.thumb.png'| prepend: site.baseurl }}""" alt="Studio School"></a></li>
-            <li><a href="{{ '/team-academy/' | prepend: site.baseurl }}"><img src="{{ '/images/team-academy/TeamAcademy.thumb.png' | prepend: site.baseurl }}""" alt="Team Academy"></a></li>
-            <li><a href="{{ '/the-school-of-life/' | prepend: site.baseurl }}"><img src="{{ '/images/tsol/TheSchoolOfLife.thumb.png' | prepend: site.baseurl }}""" alt="The School of Life"></a></li>
-            <li><a href="{{ '/trade-school/' | prepend: site.baseurl }}"><img src="{{ '/images/trade-school/TradeSchool.thumb.png' | prepend: site.baseurl }}""" alt="Trade School"></a></li>
+            <li>
+              <a href="{{ '/brockwood-park-school/' | prepend: site.baseurl }}">
+              {% srcset brockwood/Brockwood.thumb.png ppi:1,2,3 alt='Brockwood Park School' %}
+                {% srcset_source size: '33vw' %}
+                {% srcset_source width: 256 %}
+                {% srcset_source width: 512 %}
+                {% srcset_source width: 768 %}
+                {% srcset_source width: 800 %}
+              {% endsrcset %}
+              </a>
+            </li>
+            <li>
+              <a href="{{ '/general-assembly/' | prepend: site.baseurl }}">
+                {% srcset ga/GeneralAssembly.thumb.png ppi:1,2,3 alt='General Assembly' %}
+                  {% srcset_source size: '33vw' %}
+                  {% srcset_source width: 256 %}
+                  {% srcset_source width: 512 %}
+                  {% srcset_source width: 768 %}
+                  {% srcset_source width: 800 %}
+                {% endsrcset %}
+              </a>
+            </li>
+            <li>
+              <a href="{{ '/hyper-island/' | prepend: site.baseurl }}">
+                {% srcset hi/HyperIsland.thumb.png ppi:1,2,3 alt='Hyper Island' %}
+                  {% srcset_source size: '33vw' %}
+                  {% srcset_source width: 256 %}
+                  {% srcset_source width: 512 %}
+                  {% srcset_source width: 768 %}
+                  {% srcset_source width: 800 %}
+                {% endsrcset %}
+              </a>
+            </li>
+            <li>
+              <a href="{{ '/kaospilot/' | prepend: site.baseurl }}">
+                {% srcset kaospilot/Kaospilot.thumb.png ppi:1,2,3 alt='Kaospilot' %}
+                  {% srcset_source size: '33vw' %}
+                  {% srcset_source width: 256 %}
+                  {% srcset_source width: 512 %}
+                  {% srcset_source width: 768 %}
+                  {% srcset_source width: 800 %}
+                {% endsrcset %}
+              </a>
+            </li>
+            <li>
+              <a href="{{ '/schumacher-college/' | prepend: site.baseurl }}">
+                {% srcset schumacher/Schumacher.thumb.png ppi:1,2,3 alt='Schumacher College' %}
+                  {% srcset_source size: '33vw' %}
+                  {% srcset_source width: 256 %}
+                  {% srcset_source width: 512 %}
+                  {% srcset_source width: 768 %}
+                  {% srcset_source width: 800 %}
+                {% endsrcset %}
+              </a>
+            </li>
+            <li>
+              <a href="{{ '/studio-school/'| prepend: site.baseurl }}">
+                {% srcset studio-school/StudioSchool.thumb.png ppi:1,2,3 alt='Studio School' %}
+                  {% srcset_source size: '33vw' %}
+                  {% srcset_source width: 256 %}
+                  {% srcset_source width: 512 %}
+                  {% srcset_source width: 768 %}
+                  {% srcset_source width: 800 %}
+                {% endsrcset %}
+              </a>
+            </li>
+            <li>
+              <a href="{{ '/team-academy/' | prepend: site.baseurl }}">
+                {% srcset team-academy/TeamAcademy.thumb.png ppi:1,2,3 alt='Team Academy' %}
+                  {% srcset_source size: '33vw' %}
+                  {% srcset_source width: 256 %}
+                  {% srcset_source width: 512 %}
+                  {% srcset_source width: 768 %}
+                  {% srcset_source width: 800 %}
+                {% endsrcset %}
+              </a>
+            </li>
+            <li>
+              <a href="{{ '/the-school-of-life/' | prepend: site.baseurl }}">
+                {% srcset tsol/TheSchoolOfLife.thumb.png ppi:1,2,3 alt='The School of Life' %}
+                  {% srcset_source size: '33vw' %}
+                  {% srcset_source width: 256 %}
+                  {% srcset_source width: 512 %}
+                  {% srcset_source width: 768 %}
+                  {% srcset_source width: 800 %}
+                {% endsrcset %}
+              </a>
+            </li>
+            <li>
+              <a href="{{ '/trade-school/' | prepend: site.baseurl }}">
+                {% srcset trade-school/TradeSchool.thumb.png ppi:1,2,3 alt='Trade School' %}
+                  {% srcset_source size: '33vw' %}
+                  {% srcset_source width: 256 %}
+                  {% srcset_source width: 512 %}
+                  {% srcset_source width: 768 %}
+                  {% srcset_source width: 800 %}
+                {% endsrcset %}
+              </a>
+            </li>
           </ul>
         </div><!-- end .inner_wrapper -->
       </div><!-- end .outter_wrapper -->

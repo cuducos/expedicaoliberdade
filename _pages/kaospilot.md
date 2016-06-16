@@ -14,7 +14,14 @@ A Kaospilot nasceu em 1991. Seu fundador, Uffe Elbæk, bebeu nas fontes do ativi
 
 Esse caldo dá, até hoje, o tom do ambiente. A Kaospilot é viva, ativista, criativa e, pelo que sentimos, está sempre buscando se adaptar às necessidades de um mundo em constante transformação. A busca não é por habilidades e conhecimentos para controlar ou gerenciar, mas para liderar e navegar no caos em que vivemos. Nos negócios, nas questões sociais e culturais. É um ambiente de aprendizado para líderes e empreendedores dispostos a construir soluções criativas em tempos e turbulência.
 
-![Uma dinâmica energizante na Kaospilot]({{ '/images/kaospilot/Kaospilot01.jpg' | prepend: site.baseurl }})
+{% srcset kaospilot/Kaospilot01.jpg ppi:1,2,3 alt='Uma dinâmica energizante na Kaospilot' %}
+  {% srcset_source size: '100vw' %}
+  {% srcset_source width: 320 %}
+  {% srcset_source width: 480 %}
+  {% srcset_source width: 640 %}
+  {% srcset_source width: 800 %}
+  {% srcset_source width: 1024 %}
+{% endsrcset %}
 
 ## Os estudantes
 
@@ -30,7 +37,14 @@ Tivemos a oportunidade de acompanhar um dia típico na escola. O que mais marca 
 
 É claro que há também concentração, trabalho duro e desafios que os colocam em situações difíceis. Quando o clima fica pesado demais, alguém puxa um "Energizer", uma dinâmica, um jogo, algo que os faça mexer os corpos, talvez passar por ridículo e quebrar o gelo. Energizar ajuda a manter o ambiente criativo e motivado. Ajuda a manter o grupo em sintonia e pra cima. Essa é uma prática que incorporamos no Estaleiro Liberdade.
 
-![Estudantes da Kaospilot vendo nosso projeto no Catarse]({{ '/images/kaospilot/Kaospilot02.jpg' | prepend: site.baseurl }})
+{% srcset kaospilot/Kaospilot02.jpg ppi:1,2,3 alt='Estudantes da Kaospilot vendo nosso projeto no Catarse' %}
+  {% srcset_source size: '100vw' %}
+  {% srcset_source width: 320 %}
+  {% srcset_source width: 480 %}
+  {% srcset_source width: 640 %}
+  {% srcset_source width: 800 %}
+  {% srcset_source width: 1024 %}
+{% endsrcset %}
 
 ## O aprendizado
 
@@ -38,7 +52,14 @@ A aprendizagem se dá, principalmente, através de projetos. É comum os estudan
 
 O Team Leader, que seria o equivalente a um facilitador, interfere muito pouco no processo dos alunos. É muito mais um questionador do que um transmissor de conteúdo. É o responsável por criar e conduzir uma cultura de aprendizado autônomo e colaborativo. Ele até pode convidar professores e especialistas externos. Há teoria, mas o foco é aprender fazendo.
 
-![Atividade durante aula da Team 21]({{ '/images/kaospilot/Kaospilot03.jpg' | prepend: site.baseurl }})
+{% srcset kaospilot/Kaospilot03.jpg ppi:1,2,3 alt='Atividade durante aula da Team 21' %}
+  {% srcset_source size: '100vw' %}
+  {% srcset_source width: 320 %}
+  {% srcset_source width: 480 %}
+  {% srcset_source width: 640 %}
+  {% srcset_source width: 800 %}
+  {% srcset_source width: 1024 %}
+{% endsrcset %}
 
 ## Autonomia para aprender
 
@@ -48,7 +69,14 @@ Um estudante mais empolgado chamou um "Energizer!", que foi fortemente aceito. M
 
 Foi isso que aprenderam naquele dia. Que precisam aprender a se organizar. Que precisam aprender a navegar no caos. Não chegaram a uma conclusão sobre como compartilhar os aprendizados entre si. Mas aprenderam fazendo, discutindo, errando, refletindo e se tornaram, assim, mais conscientes do próprio processo.
 
-![O Team Leader William]({{ '/images/kaospilot/Kaospilot04.jpg' | prepend: site.baseurl }})
+{% srcset kaospilot/Kaospilot04.jpg ppi:1,2,3 alt='O Team Leader William' %}
+  {% srcset_source size: '100vw' %}
+  {% srcset_source width: 320 %}
+  {% srcset_source width: 480 %}
+  {% srcset_source width: 640 %}
+  {% srcset_source width: 800 %}
+  {% srcset_source width: 1024 %}
+{% endsrcset %}
 
 ## A celebração dos erros
 
@@ -58,7 +86,14 @@ A coragem é valorizada na KaosPilot. Os erros são celebrados. Errar não é, n
 
 > — Siri Nymannm
 
-![Sala de aula da Kaospilot]({{ '/images/kaospilot/Kaospilot05.jpg' | prepend: site.baseurl }})
+{% srcset kaospilot/Kaospilot05.jpg ppi:1,2,3 alt='Sala de aula da Kaospilot' %}
+  {% srcset_source size: '100vw' %}
+  {% srcset_source width: 320 %}
+  {% srcset_source width: 480 %}
+  {% srcset_source width: 640 %}
+  {% srcset_source width: 800 %}
+  {% srcset_source width: 1024 %}
+{% endsrcset %}
 
 ## Os projetos
 
@@ -77,4 +112,4 @@ Coincidentemente, enquanto estávamos em Aarhus, o CEO da escola, Christer Winde
 
 Conversamos com Siri Nymannm, que se formou na KaosPilot e agora trabalha na escola. Ela nos ensinou sobre o quão importante é, pra eles, saírem da Zona de Conforto, mas sem se colocarem em problemas que são grandes demais. Desenhou num papel três circunferências circunscritas. No miolo, a Zona de Conforto, tão conhecida por todos nós. Se ficamos nela, não aprendemos nada. Afinal, já sabemos o que fazer e só reproduzimos os mesmos comportamentos. Depois, a Zona de Expansão. Onde os desafios são um pouco maiores e as perspectivas são outras. É onde trabalhamos com pessoas diferentes e fazemos o que nunca fizémos, mas avançamos. Por fim, a Zona de Perigo, onde o desconforto é tão grande que não há aprendizado, onde não há esperança. Em geral, reconhecemos que sair da Zona de Conforto é importante. Mas tememos entrar numa Zona de Perigo. O que Siri nos mostrou é essa área intermediária, a Zona de Expansão. É nela que mora o aprendizado. É tocando, sem adentrar, a área perigosa que descobrimos o novo, nos desenvolvemos e expandimos nossa capacidade.
 
-[![Infográfico]({{ '/images/kaospilot/Kaospilot.png' | prepend: site.baseurl }})]({{ '/pdf/Kaospilot.pdf' | prepend: site.baseurl }})
+[![Infográfico]({{ '/images/infographics/Kaospilot.png' | prepend: site.baseurl }})]({{ '/images/infographics/Kaospilot.pdf' | prepend: site.baseurl }})
