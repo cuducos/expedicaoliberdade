@@ -16,8 +16,6 @@ exclude:
 
 gems:
   - bourbon
-  - jekyll-coffeescript
-  - jekyll-jsminify
   - jekyll-sitemap
   - jekyll-srcset-tag
   - neat

@@ -3,8 +3,6 @@ ruby '2.3.1'
 
 gem 'bourbon', '4.2.6'
 gem 'jekyll', '3.1.2'
-gem 'jekyll-coffeescript', '1.0.1'
-gem 'jekyll-jsminify', '0.2.1'
 gem 'jekyll-sitemap', '0.10.0'
 gem 'jekyll-srcset-tag', '~> 0.1'
 gem 'neat', '1.7.4'
