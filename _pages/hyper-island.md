@@ -6,7 +6,7 @@ permalink: "/hyper-island/"
 
 # {{ page.title }}
 
-Conhecemos a [Hyper Island](http://www.hyperisland.com/) através de uma longa conversa com o [Jim Ralley](http://jimra.li/), uma das pessoas envolvidas fortemente com o projeto da escola. Ele havia saído de Manchester, onde fica a Hyper Island da Inglaterra, e estava a caminho de Singapura, onde eles estavam inaugurando mais uma Hyper Island e um novo curso. O encontro aconteceu no reduto ciclista [Look Mom No Hands!](http://www.lookmumnohands.com/), em Londres, e tomamos alguns cafés e cervejas artesanais enquanto conversávamos.
+Conhecemos a [Hyper Island](https://www.hyperisland.com/) através de uma longa conversa com o [Jim Ralley](https://jimra.li/), uma das pessoas envolvidas fortemente com o projeto da escola. Ele havia saído de Manchester, onde fica a Hyper Island da Inglaterra, e estava a caminho de Singapura, onde eles estavam inaugurando mais uma Hyper Island e um novo curso. O encontro aconteceu no reduto ciclista [Look Mom No Hands!](https://www.lookmumnohands.com/), em Londres, e tomamos alguns cafés e cervejas artesanais enquanto conversávamos.
 
 {% srcset hi/HyperIsland01.jpg ppi:1,2,3 alt='Jim nos contando sobre a Hyper Island' %}
   {% srcset_source size: '100vw' %}
@@ -58,9 +58,9 @@ Essa abordagem dá ainda um lado muito humano para a escola. A forma como eles e
 
 Por fim, mudança é o que as pessoas que procuram a Hyper Island estão buscando. Seja uma mudança do analógico para o digital, ou até mesmo uma mudança de uma vida agitada para uma mais calma. E, uma vez lá, ninguém encontrará respostas prontas. Ao invés disso, o que o ambiente que eles criaram oferece é um espaço em branco para experimentar, errar (ou acertar, tanto faz) e aprender com isso.
 
-A Hyper Island está em várias cidades. Começou em Karlskrona na Suécia e hoje existe também em Estocolmo, Manchester, Nova Iorque e Singapura. Já os alunos, são de diversos países (inclusive foi um brasileiro, formado pela Hyper Island de Manchester, que nos colocou em contato com o Jim – muito obrigado, [Paulo](http://about.me/pauloey)!). No vídeo abaixo, feito por uma turma de mestrado em Gestão de Mídia Digital, dá para ver um pouco dessa diversidade das pessoas que compõem a Hyper Island (e ainda, como são os projetos desenvolvidos durante o programa):
+A Hyper Island está em várias cidades. Começou em Karlskrona na Suécia e hoje existe também em Estocolmo, Manchester, Nova Iorque e Singapura. Já os alunos, são de diversos países (inclusive foi um brasileiro, formado pela Hyper Island de Manchester, que nos colocou em contato com o Jim – muito obrigado, [Paulo](https://about.me/pauloey)!). No vídeo abaixo, feito por uma turma de mestrado em Gestão de Mídia Digital, dá para ver um pouco dessa diversidade das pessoas que compõem a Hyper Island (e ainda, como são os projetos desenvolvidos durante o programa):
 
-<iframe width="550" height="310" src="http://player.vimeo.com/video/52371110 " frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<iframe width="550" height="310" src="https://player.vimeo.com/video/52371110 " frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
 As turmas são pequenas, normalmente entre 20 e 40 alunos. Com essa rede de alunos e escolas em diversos países, a reputação da Hyper Island é grande (e, claro, positiva), ajudando muito na hora de conseguir as parcerias com o mercado de trabalho – o que só reforça ainda mais o modelo que eles criaram. Essa é a Hyper Island, uma escola que traz as necessidades do mercado de trabalho para o momento de aprendizagem, criando um ambiente de reflexão, criando experiências que visam mudar o mundo começando pela mudança de si mesmo – E é isso que resumimos no nosso infográfico:
 

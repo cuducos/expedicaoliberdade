@@ -6,7 +6,7 @@ permalink: "/schumacher-college/"
 
 # {{ page.title }}
 
-Tivemos o privilégio de viver uma semana na inglesa [Schumacher College](http://schumachercollege.org.uk). O Larusso durante as viagens da Expedição Liberdade, se inscreveu na [Schumacher Experience](http://www.schumachercollege.org.uk/courses/schumacher-experience-autumn-2013). O Cuducos, meses mais tarde, no [Complexity and Collaboration](http://www.schumachercollege.org.uk/courses/complexity-and-collaboration-applying-complexity-theory-to-organisational-transformation-2014). E “viver” na escola não é só uma expressão. É viver mesmo, sentir a riqueza de uma mistura de casa, ecovila e universidade. Grande parte do valor de estar na Schumacher é mergulhar nessa atmosfera. Ser parte da comunidade, conviver em um ambiente leve, acolhedor e consciente. Acordar, meditar, comer, trabalhar e dormir faz parte da vida na Schumacher.
+Tivemos o privilégio de viver uma semana na inglesa [Schumacher College](https://schumachercollege.org.uk). O Larusso durante as viagens da Expedição Liberdade, se inscreveu na [Schumacher Experience](https://www.schumachercollege.org.uk/courses/schumacher-experience-autumn-2013). O Cuducos, meses mais tarde, no [Complexity and Collaboration](https://www.schumachercollege.org.uk/courses/complexity-and-collaboration-applying-complexity-theory-to-organisational-transformation-2014). E “viver” na escola não é só uma expressão. É viver mesmo, sentir a riqueza de uma mistura de casa, ecovila e universidade. Grande parte do valor de estar na Schumacher é mergulhar nessa atmosfera. Ser parte da comunidade, conviver em um ambiente leve, acolhedor e consciente. Acordar, meditar, comer, trabalhar e dormir faz parte da vida na Schumacher.
 
 _Aprendizado transformador para uma vida sustentável_, esse é o norte teórico e a prática diária. A partir de um profundo entendimento ecológico, holístico e complexo sobre o mundo, a Schumacher é muito coerente em cada detalhe: do cozinhar alimentos plantados lá à festa semanal sem energia elétrica. E a transformação que norteia a escola vem de dentro de nós mesmos, catalisado pela imersão no estilo de vida que eles põe em prática no dia-a-dia.
 
@@ -36,7 +36,7 @@ O curso que o Larusso fez é uma chance de provar um pouquinho de tudo que rola 
 
 A Schumacher Experience pode ser um bom início de caminho pra quem pretende conhecer mais sobre a escola, talvez antes de se comprometer com um dos programas de pós-graduação que tem a duração de mais ou menos um ano. São eles: Ciências Holísticas, Economia para Transição, Horticultura e Produção de Alimentos Orgânicos, e, o mais novo, Design Thinking Ecológico. Acontecem também vários cursos curtos ao longo do ano, como os que cursamos. Esses são sempre profundamente ligados à sustentabilidade e à nossa complexa relação com o _todo_, com a natureza, com o mundo, com gaia. Sobre essas áreas, a escola costuma receber algumas das maiores referências do mundo: Fritjof Capra, Vandana Shiva, Stephan Harding e o fundador Satish Kumar são alguns dos nomes.
 
-O curso que Cuducos fez é um desses que acontecem ao longo do ano. _Complexity and Collaboration_ revela a abordagem que está por trás da ecologia da Schumacher College. Todo ano, Eve Mitleton-Kelly visita a escola para compartilhar seu conhecimentos na área de teoria complexa e consultoria – e assim surgiu esse curso. Se juntam a ela colaboradores da Schumacher, ex-alunos e professores fixos de lá. O forte da atividade é ver como a abordagem a partir de sistemas complexos é vista tanto na academia – já que Eve é professora na [LSE](http://www.lse.ac.uk/), uma das melhores universidades da Inglaterra –  quanto no mercado – já que boa parte do curso fala de casos nos quais Eve e seu grupo de pesquisa foram procurado para prestar consultoria a empresas (do pequeno [Dartington Hall Trust](http://www.dartington.org/), instituto no qual a Schumacher College está inserida, à gigante [Rolls-Royce](http://www.rolls-royce.com/)). O grupo desse curso também era eclético em termos de nacionalidades: tinha gente da Colômbia, do Brasil, da Austrália, da África do Sul, da Nova Zelândia, da Bélgica, da Alemanha, da Índia, da França e, claro, da própria Inglaterra. O perfil profissional era um pouco menos variados: muitos tinham experiência em áreas como consultoria, coaching, empreendedorismo ou pesquisa e inovação.
+O curso que Cuducos fez é um desses que acontecem ao longo do ano. _Complexity and Collaboration_ revela a abordagem que está por trás da ecologia da Schumacher College. Todo ano, Eve Mitleton-Kelly visita a escola para compartilhar seu conhecimentos na área de teoria complexa e consultoria – e assim surgiu esse curso. Se juntam a ela colaboradores da Schumacher, ex-alunos e professores fixos de lá. O forte da atividade é ver como a abordagem a partir de sistemas complexos é vista tanto na academia – já que Eve é professora na [LSE](https://www.lse.ac.uk/), uma das melhores universidades da Inglaterra –  quanto no mercado – já que boa parte do curso fala de casos nos quais Eve e seu grupo de pesquisa foram procurado para prestar consultoria a empresas (do pequeno [Dartington Hall Trust](https://www.dartington.org/), instituto no qual a Schumacher College está inserida, à gigante [Rolls-Royce](https://www.rolls-royce.com/)). O grupo desse curso também era eclético em termos de nacionalidades: tinha gente da Colômbia, do Brasil, da Austrália, da África do Sul, da Nova Zelândia, da Bélgica, da Alemanha, da Índia, da França e, claro, da própria Inglaterra. O perfil profissional era um pouco menos variados: muitos tinham experiência em áreas como consultoria, coaching, empreendedorismo ou pesquisa e inovação.
 
 {% srcset schumacher/Schumacher06.jpg ppi:1,2,3 alt='Campos de cultivo da Schumacher College' %}
   {% srcset_source size: '100vw' %}
@@ -51,7 +51,7 @@ Apesar de parecer um curso mais tradicional a turma do _Complexity and Collabora
 
 ## Schumacher College, Brasil e brasileiros
 
-O que não falta na Schumacher são brasileiros. Durante nossa estada, conhecemos por volta de uma dúzia de brasileiros lá. Descobrimos que, depois dos britânicos, somos o maior grupo de ex-alunos. Mais de 200 já estiveram por lá. Não à tôa, acontecem encontros em São Paulo de ex-alunos de lá. Há alguns meses, [rolou um em que, além dos brasileiros, o diretor da escola Jonathan Rae e a professora Patricia Shaw também estiveram presentes](http://nos.vc/pt/Jantar-Schumacher). O Larusso participou de um encontro na Inglaterra, ainda na Schumacher, em que eles mostraram fotos e dividiram suas impressões sobre a visita ao Brasil. Demonstraram uma visão muito positiva do país, da nossa capacidade de criação e das várias iniciativas no campo da sustentabilidade que, apesar de parecerem dispersas, estão acontecendo a todo vapor por aqui.
+O que não falta na Schumacher são brasileiros. Durante nossa estada, conhecemos por volta de uma dúzia de brasileiros lá. Descobrimos que, depois dos britânicos, somos o maior grupo de ex-alunos. Mais de 200 já estiveram por lá. Não à tôa, acontecem encontros em São Paulo de ex-alunos de lá. Há alguns meses, [rolou um em que, além dos brasileiros, o diretor da escola Jonathan Rae e a professora Patricia Shaw também estiveram presentes](https://nos.vc/pt/Jantar-Schumacher). O Larusso participou de um encontro na Inglaterra, ainda na Schumacher, em que eles mostraram fotos e dividiram suas impressões sobre a visita ao Brasil. Demonstraram uma visão muito positiva do país, da nossa capacidade de criação e das várias iniciativas no campo da sustentabilidade que, apesar de parecerem dispersas, estão acontecendo a todo vapor por aqui.
 
 ## Tangibilizando o sutil
 
@@ -110,17 +110,17 @@ Do nosso envolvimento e das nossas explorações sobre a Schumacher College tir
 
 ### Volta ao mundo em 13 escolas, pelo Coletivo Educ-Acão
 
-A Schumacher College mereceu um capítulo nesse livro que também trata de alternativas no cenário de educação, e que também foi financiado através do Catarse. Tem uma cópia do livro lá na biblioteca da Schumacher, mas você pode <a href="http://educ-acao.com/baixe-gratuitamente-o-livro/">baixar o livro digital, é gratuito</a>.
+A Schumacher College mereceu um capítulo nesse livro que também trata de alternativas no cenário de educação, e que também foi financiado através do Catarse. Tem uma cópia do livro lá na biblioteca da Schumacher, mas você pode <a href="https://educ-acao.com/baixe-gratuitamente-o-livro/">baixar o livro digital, é gratuito</a>.
 
 ### Uma nova economia, por Felipe Cunha
 
-O Felipe Cunha é um carioca que conhecemos lá na Schumacher College. A pesquisa de mestardo dele, dentro do programa de Economia para Transição, trata da nova economia. Ele mantém [um blog sobre o tema e sobre a sua experiência na Schumacher](http://www.solosocial.com.br/amargem). Para esse blog ele tem produzido alguns vídeos curtos com convidados — então compartilhamos alguns deles:
+O Felipe Cunha é um carioca que conhecemos lá na Schumacher College. A pesquisa de mestardo dele, dentro do programa de Economia para Transição, trata da nova economia. Ele mantém [um blog sobre o tema e sobre a sua experiência na Schumacher](https://www.solosocial.com.br/amargem). Para esse blog ele tem produzido alguns vídeos curtos com convidados — então compartilhamos alguns deles:
 
-<iframe width="550" height="310" src="http://www.youtube.com/embed/NSRAnXeaAh8%?color=white&theme=light"></iframe>
+<iframe width="550" height="310" src="https://www.youtube.com/embed/NSRAnXeaAh8%?color=white&theme=light"></iframe>
 
-<iframe width="550" height="310" src="http://www.youtube.com/embed/YvAebcOA8qo%?color=white&theme=light"></iframe>
+<iframe width="550" height="310" src="https://www.youtube.com/embed/YvAebcOA8qo%?color=white&theme=light"></iframe>
 
-<iframe width="550" height="310" src="http://www.youtube.com/embed/WzQoZ5z2Axg%?color=white&theme=light"></iframe>
+<iframe width="550" height="310" src="https://www.youtube.com/embed/WzQoZ5z2Axg%?color=white&theme=light"></iframe>
 
 ### Perguntas &amp; respostas com Tomás de Lara
 
@@ -140,6 +140,6 @@ _O que é a Schumacher College pra você?_
 
 Por fim, conheçam o Satish Kumar. Ele, nada mais nada menos, fundou da Schumacher College. Se você leu até aqui, acho que vai querer conferir esses vídeos!
 
-<iframe width="550" height="310" src="http://www.youtube.com/embed/VAz0bOtfVfE?color=white&theme=light"></iframe>
+<iframe width="550" height="310" src="https://www.youtube.com/embed/VAz0bOtfVfE?color=white&theme=light"></iframe>
 
-<iframe width="550" height="310" src="http://www.youtube.com/embed/uSLUd0veioU?color=white&theme=light"></iframe>
+<iframe width="550" height="310" src="https://www.youtube.com/embed/uSLUd0veioU?color=white&theme=light"></iframe>

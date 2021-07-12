@@ -1,10 +1,10 @@
 # Expedição Liberdade
 
-[Jekyll](http://jekyllrb.com) source files for [www.expedicaoliberdade.com.br](http://www.expedicaoliberdade.com.br).
+[Jekyll](https://jekyllrb.com) source files for [www.expedicaoliberdade.com.br](https://www.expedicaoliberdade.com.br).
 
 ## Installation
 
-First install the required [Ruby](http://ruby-lang.org) gems:
+First install the required [Ruby](https://ruby-lang.org) gems:
 
 ```console
 $ gem install bundler
@@ -25,5 +25,5 @@ $ JEKYLL_ENV=production jekyll b
 
 ## License
 
-[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).

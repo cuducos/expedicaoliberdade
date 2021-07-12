@@ -6,7 +6,7 @@ permalink: "/kaospilot/"
 
 # {{ page.title }}
 
-Em nossa única parada fora da Inglaterra conhecemos Aarhus. Uma pacata cidade européia, a segunda maior da Dinamarca. É lá onde vivem menos de 300 mil pessoas que comem pães maravilhosos. Entre esses felizardos estão os "Pilotos do Caos", como são conhecidos os vibrantes estudantes da [Kaospilot](http://www.kaospilot.dk). Quase metade deles são da Dinamarca e região, Suécia, Finlândia e Noruega. Os outros são de todos os cantos do mundo.
+Em nossa única parada fora da Inglaterra conhecemos Aarhus. Uma pacata cidade européia, a segunda maior da Dinamarca. É lá onde vivem menos de 300 mil pessoas que comem pães maravilhosos. Entre esses felizardos estão os "Pilotos do Caos", como são conhecidos os vibrantes estudantes da [Kaospilot](https://www.kaospilot.dk). Quase metade deles são da Dinamarca e região, Suécia, Finlândia e Noruega. Os outros são de todos os cantos do mundo.
 
 ## O início
 
@@ -106,7 +106,7 @@ Apesar de muito ser feito em grupo, as experiências individuais fazem da escola
 
 Coincidentemente, enquanto estávamos em Aarhus, o CEO da escola, Christer Windeløv-Lidzélius, estava em Porto Alegre para palestrar no TEDxUnisinos. Aproveitou a estadia e foi conhecer o Estaleiro Liberdade. Comentou que uma das ideias para o nome da escola foi Kaos Pirates. Isso já nos aproximava. Ouviu interessadamente o que cada Marujo estava desenvolvendo e se admirou com a ousadia da nossa escola pirata. Os europeus estão mais habituados com apoios financeiros por parte de governos e empresas. Nas bandas de cá, fazemos tudo de forma independente e criamos nossos modelos de negócios.
 
-<iframe width="550" height="310" src="http://www.youtube.com/embed/X-1ivgaW1q8?color=white&theme=light"></iframe>
+<iframe width="550" height="310" src="https://www.youtube.com/embed/X-1ivgaW1q8?color=white&theme=light"></iframe>
 
 ## Zona de expansão
 

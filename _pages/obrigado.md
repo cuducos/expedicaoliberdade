@@ -6,19 +6,19 @@ permalink: "/muito-obrigado/"
 
 _Por Daniel Larusso, 26 de dezembro de 2014_
 
-Nesse ano, debutei no [Catarse](http://catarse.me/pt/expedicao) e foi uma experiência incrível. Vê um pouquinho no vídeo aí!
+Nesse ano, debutei no [Catarse](https://catarse.me/pt/expedicao) e foi uma experiência incrível. Vê um pouquinho no vídeo aí!
 
-<iframe width="550" height="310" src="http://player.vimeo.com/video/82737079 " frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<iframe width="550" height="310" src="https://player.vimeo.com/video/82737079 " frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
 Me juntei aos lindos Cuducos e Mabel pra visitar algumas das mais incríveis escolas e espaços de aprendizagem do mundo, na Europa.
 
-E assim nasceu a Expedição Liberdade. 
+E assim nasceu a Expedição Liberdade.
 
-Muito do que vi me fez amadurecer o olhar sobre o que já fazemos no Brasil, principalmente no Estaleiro Liberdade. Há muito espaço pra aprendizagem livre e baseada no que mais importa na vida. 
+Muito do que vi me fez amadurecer o olhar sobre o que já fazemos no Brasil, principalmente no Estaleiro Liberdade. Há muito espaço pra aprendizagem livre e baseada no que mais importa na vida.
 
 Todo o conteúdo gerado será compartilhado aqui, através do blog do Estaleiro, e de sete encontros presenciais, abertos, ao longo de 2014.
 
-Agradeço imensamente a você, um dos 110 apoiadores que nos fizeram alcançar 9265% da meta do Catarse. Muuuuito obrigado! Vocês superaram muito as minhas expectativas e até as da minha mãe. 
+Agradeço imensamente a você, um dos 110 apoiadores que nos fizeram alcançar 9265% da meta do Catarse. Muuuuito obrigado! Vocês superaram muito as minhas expectativas e até as da minha mãe.
 
 Agradeço muito aos amigos feitos ao longo da viagem e aos irmãos que nos ajudaram demais: Breno Strussmann, Bibi Xausa-Bosak, Felipe Benites Cabral, Patrícia Lima, Stefan Veis Pennerup, Mauro Rego.
 
@@ -26,13 +26,13 @@ Feliz 2014!
 
 ---
 
-_This year, I debuted in [catarse.me](http://catarse.me/) and it was an incredible experience. Check out our [video](https://vimeo.com/82737079)._
+_This year, I debuted in [catarse.me](https://catarse.me/) and it was an incredible experience. Check out our [video](https://vimeo.com/82737079)._
 
 _I joined the wonderful Cuducos and Mabel to visit some of the most amazing schools and learning spaces of the world, in Europe._
 
 _So, the Freedom Expedition was born._
 
-_Much of what I saw, made me more mature about what we are doing in Brazil, mainly in [Estaleiro Liberdade](http://estaleiroliberdade.com.br/english). There is plenty of space for free learning, based on what really matters in life._
+_Much of what I saw, made me more mature about what we are doing in Brazil, mainly in [Estaleiro Liberdade](https://estaleiroliberdade.com.br/english). There is plenty of space for free learning, based on what really matters in life._
 
 _All content generated will be shared here, through the Estaleiro blog, and seven open meetings throughout 2014._
 
