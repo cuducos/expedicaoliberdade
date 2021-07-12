@@ -1,8 +1,4 @@
-# OS & Editor
-.DS_Store
-.ropeproject/
-
-# Ruby, Jekyll & preprocessors
 .jekyll-metadata
 .ruby-version
 .sass-cache
+_site/
